@@ -1,7 +1,7 @@
 # library-and-loan-management-system-ds-gp
 
 Scaletta obiettivi progettuali
-Aprire gitHub con codice progetto [risolto da Giovanni in data 11/11/2026]
+- Aprire gitHub con codice progetto [risolto da Giovanni in data 11/11/2026]
 Aprire una Kamban-Board su Trello
 Rivedere il linguaggio Assembly (personale)
 Scrivere pattern if-while-ecc
